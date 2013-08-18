@@ -6,6 +6,9 @@ You will need to download the Link-OS SDK from [here](http://www.zebra.com/us/en
 #### Sample Code
 
 ```csharp
+using ZebraSDK;
+...
+
 public void Test ()
 {
 	NSError err;
