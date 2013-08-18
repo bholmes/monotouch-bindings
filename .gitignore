@@ -19,3 +19,5 @@ Kiip/binding/libKiip.a
 /FlurryAnalytics/binding/libFlurry.a
 CorePlot/binding/CorePlot_0.9/
 
+ZebraSDK/externals/libdtdev.a
+ZebraSDK/externals/libZSDK_API.a
